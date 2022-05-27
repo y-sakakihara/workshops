@@ -60,7 +60,7 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 
 There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html).
 
-If you need any help on booking a room, please [contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link).
+(For foreginers) If you need any help on booking a room, please [contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link).
 
 We have no support grants for travel and accomordation fees for speakers. Sorry.
 
@@ -79,6 +79,8 @@ Yuki Sakakihara (Yamagata University)
 (Daisuke Yoshida (Nagoya University))
 
 (Graham White (Kavli IPMU, University of Tokyo))
+
+[Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
 
 
 ## Support
