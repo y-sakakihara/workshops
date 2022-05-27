@@ -2,11 +2,11 @@
 
 ## Pupose
 
-Our purpose of this workshop is share to make the understanding of the universe and the fundamental forces deeper.
-In 2014, LIGO confirmed the existance of gravitational waves throught the detection from binary black holes
-and gravitational waves became a useful took to explore the early universe and even high energy physics. 
-
-
+The universe has misteries to be understood: the origin of dark matter, baryon anti-baryon asymmetry, the smallness of the neutrino masses, etc. 
+In 2014, LIGO confirmed the existance of gravitational waves throught the detection from binary black holes,
+and gravitational waves became a useful tool to explore the early universe and even high energy physics. 
+Our purpose of this workshop is to share and discuss recent progress on how to extract clue to misteries of the universe from gravitational waves.
+To accomplish this purpose, we invite both experts and young physicists in this field.
 
 ### Keywords
 
