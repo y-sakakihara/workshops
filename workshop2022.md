@@ -7,7 +7,7 @@ In 2014, LIGO confirmed the existance of gravitational waves and gravitational w
 A variety of the ways to detect gravitational waves are on-going and proposed, covering vast range of the gravitational wave frequency bands.
 One of the frontiers is high frequency gravitational waves since a phase transition occured earlier in the universe gives higher frequency gravitaitonal wave signals. We invite experts in different gravitational wave frequency bands to remind the importance and the usefulness of the wide range gravitational wave observation to understand misteries of the universe. Our purpose of this workshop is to share and discuss recent progress and new ideas on how to extract some clue to misteries of the universe from gravitational waves. To accomplish this purpose, we really welcome young physicists in related fields to join.
 
-This workshop is basically on-site meeting. We use zoom for invited talks if needed.
+This workshop is basically on-site. We use zoom for invited talks if needed.
 
 ### Keywords
 
