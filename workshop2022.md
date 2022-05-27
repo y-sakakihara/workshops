@@ -43,7 +43,7 @@ Expected Program Issue Day: 30th September, 2022
 
 ## [Location](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
-[Graduate School of Science and Engineering,
+[Faculty of Engineering,
 Yamagata University](https://www.yz.yamagata-u.ac.jp/en/), 
 4-3-16, Jonan, Yonezawa, 992-8510, Yamagata
 
@@ -74,7 +74,7 @@ Yuki Sakakihara (Yamagata University)
 
 ## Support
 
-The venue and faculiies are provided by Faculty of Engineearing, Yamagata University
+The venue and facilities are provided by Faculty of Engineearing, Yamagata University
 
 ![Logo YU](YU-logomark01.png)
 
