@@ -2,6 +2,13 @@
 
 Our purpose of this workshop is
 
+### Keywords
+
+- Gravitational waves
+- Topological defects
+- Dark matter
+- Axions
+
 ## Schedule
 
 From xxth October, 2022 to xxth October, 2022
@@ -25,6 +32,8 @@ Expected Program Issue Day: 30th September, 2022
 (Ivette Fuentes (University of Southampton) Online invitaion)
 
 (Elisa Ferreira (Max Planck Institute) Online invitation)
+
+(Minoru Eto (Yamagata University))
 
 (Sachiko Kuroyanagi (Nagoya University))
 
@@ -61,3 +70,11 @@ Yuki Sakakihara (Yamagata University)
 (Daisuke Yoshida (Nagoya University))
 
 (Graham White (Kavli IPMU, University of Tokyo))
+
+
+## Support
+
+The venue and faculiies are provided by Faculty of Engineearing, Yamagata University
+
+!
+
