@@ -1,6 +1,6 @@
 ---
 
-## Pupose
+## Purpose
 
 The universe has misteries to be understood: the origin of dark matter, baryon anti-baryon asymmetry, the smallness of the neutrino masses, etc. 
 In 2014, LIGO confirmed the existance of gravitational waves and gravitational waves became a useful tool to explore the early universe and even high energy physics. 
