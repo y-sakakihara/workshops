@@ -46,9 +46,9 @@ Expected Program Issue Day: 30th September, 2022
 
 (Toshifumi Noumi (Kobe University))
 
-## [Program](program.md)
+## [Program](program)
 
-## [Participants](participants.md)
+## [Participants](participants)
 
 ## [Location](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
