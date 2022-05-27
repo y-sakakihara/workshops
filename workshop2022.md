@@ -3,10 +3,9 @@
 ## Pupose
 
 The universe has misteries to be understood: the origin of dark matter, baryon anti-baryon asymmetry, the smallness of the neutrino masses, etc. 
-In 2014, LIGO confirmed the existance of gravitational waves throught the detection from binary black holes,
-and gravitational waves became a useful tool to explore the early universe and even high energy physics. 
-Our purpose of this workshop is to share and discuss recent progress on how to extract clue to misteries of the universe from gravitational waves.
-To accomplish this purpose, we invite both experts and young physicists in this field.
+In 2014, LIGO confirmed the existance of gravitational waves and gravitational waves became a useful tool to explore the early universe and even high energy physics. 
+A variety of the ways to detect gravitational waves are on-going and proposed, covering vast range of the gravitational wave frequency bands.
+One of the frontiers is high frequency gravitational waves since a phase transition occured earlier in the universe gives higher frequency gravitaitonal wave signals. We invite experts in different gravitational wave frequency bands to remind the importance and the usefulness of the wide range observation to understand misteries of the universe. Our purpose of this workshop is to share and discuss recent progress and new ideas on how to extract some clue to misteries of the universe from gravitational waves. To accomplish this purpose, we really welcome young physicists in related fields to join.
 
 ### Keywords
 
