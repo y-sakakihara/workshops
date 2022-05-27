@@ -62,12 +62,7 @@ There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyu
 
 (For foreginers) If you need any help on booking a room, please [contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link).
 
-We have no support grants for travel and accommordation fees for speakers. Sorry.
-
-```
-
-
-```
+We have no support grants for travel and accommodation fees for speakers. Sorry.
 
 ## Organaizers
 Yuki Sakakihara (Yamagata University)
