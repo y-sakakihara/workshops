@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="YU-symbomark.png" />
+
 
 ## Pupose
 
@@ -40,6 +40,8 @@ Expected Program Issue Day: 30th September, 2022
 (Sachiko Kuroyanagi (Nagoya University))
 
 (Toshifumi Noumi (Kobe University))
+
+## [Program](program.md)
 
 ## [Participants](participants.md)
 
