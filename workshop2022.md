@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="YU-symbomark.png" />
+
 ## Pupose
 
 Our purpose of this workshop is
