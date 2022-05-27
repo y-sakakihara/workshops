@@ -2,7 +2,11 @@
 
 ## Pupose
 
-Our purpose of this workshop is
+Our purpose of this workshop is share to make the understanding of the universe and the fundamental forces deeper.
+In 2014, LIGO confirmed the existance of gravitational waves throught the detection from binary black holes
+and gravitational waves became a useful took to explore the early universe and even high energy physics. 
+
+
 
 ### Keywords
 
