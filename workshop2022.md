@@ -86,4 +86,4 @@ The venue and facilities are provided by Faculty of Engineearing, Yamagata Unive
 
 ![Image](14.jpg)
 
-![Map](map.png)
+
