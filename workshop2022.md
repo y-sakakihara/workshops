@@ -76,5 +76,5 @@ Yuki Sakakihara (Yamagata University)
 
 The venue and faculiies are provided by Faculty of Engineearing, Yamagata University
 
-!
+![Logo YU](YU-logomark01.png)
 
