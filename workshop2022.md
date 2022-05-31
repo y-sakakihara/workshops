@@ -50,8 +50,9 @@ Expected Program Issue Day: 30th September, 2022
 
 ## [Participants](participants)
 
-## [Location](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
+## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
+Centennial Hall,
 [Faculty of Engineering,
 Yamagata University](https://www.yz.yamagata-u.ac.jp/en/), 
 4-3-16, Jonan, Yonezawa, 992-8510, Yamagata
