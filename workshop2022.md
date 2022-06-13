@@ -66,6 +66,11 @@ There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyu
 We have no support grants for travel and accommodation fees for speakers. Sorry.
 
 ## Organaizers
+
+Masato Arai (Yamagata University)
+
+Minoru Eto (Yamagata University)
+
 Yuki Sakakihara (Yamagata University)
 
 (Asuka Ito (Tokyo Institute of Technology))
