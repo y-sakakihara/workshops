@@ -2,10 +2,25 @@
 
 ## Purpose
 
-The universe has misteries to be understood: the origin of dark matter, baryon anti-baryon asymmetry, the smallness of the neutrino masses, etc. 
-In 2014, LIGO confirmed the existance of gravitational waves and gravitational waves became a useful tool to explore the early universe and even high energy physics. 
-A variety of the ways to detect gravitational waves are on-going and proposed, covering vast range of the gravitational wave frequency bands.
-One of the frontiers is high frequency gravitational waves since a phase transition occured earlier in the universe gives higher frequency gravitaitonal wave signals. We invite experts in different gravitational wave frequency bands to remind the importance and the usefulness of the wide range gravitational wave observation to understand misteries of the universe. Our purpose of this workshop is to share and discuss recent progress and new ideas on how to extract some clue to misteries of the universe from gravitational waves. To accomplish this purpose, we really welcome young physicists in related fields to join.
+In 2014, LIGO confirmed the existance of gravitational waves. Since then, gravitational waves became a useful tool to explore the early universe and even fundamental physics. A variety of the ways to detect gravitational waves are on-going and proposed, covering vast range of the gravitational wave frequency bands.
+
+One of the observable gravitational wave sources is a phase transition in the early universe, leading to bubbles and/or topological defects. Axion, one of the dark matter candidates, also predicts hybrid type topological defects. Therefore, it will be a good chance to know the basic properties of topological defects originating in the fundamental physics. Topological defects are also important in low energy physics such as superconducters. 
+
+Our purpose of this workshop is to share and discuss recent progress and new ideas on frontiers in gravity and fundamental physics and
+to trigger the interplay between fundamental physicists and cosmologists.
+
+[](how to extract some clue to misteries of the universe from gravitational waves. )
+
+[](nature, property, characteristics)
+
+[](The universe has misteries to be understood: the origin of dark matter, baryon anti-baryon asymmetry, the smallness of the neutrino masses, etc. )
+
+[](One of the frontiers is high frequency gravitational waves since a phase transition occured earlier in the universe gives higher frequency gravitaitonal wave signals. )
+
+[](We invite experts in different gravitational wave frequency bands to remind the importance and the usefulness of the wide range gravitational wave observation to understand misteries of the universe. )
+
+
+[](To accomplish this purpose, we really welcome young physicists in related fields to join.)
 
 This workshop is basically on-site. We use zoom for invited talks if needed.
 
