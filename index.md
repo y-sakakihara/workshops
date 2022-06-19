@@ -38,15 +38,11 @@ Expected Program Issue Day: 30th September, 2022
 
 ## Invited Speakers
 
-
-
 Minoru Eto (Yamagata University)
 
 (Masato Arai (Yamagata University))
 
-(Ivette Fuentes (University of Southampton) Online invitaion)
-
-(Elisa Ferreira (Max Planck Institute) Online invitation)
+(Graham White (Kavli IPMU, University of Tokyo))
 
 (Sachiko Kuroyanagi (Nagoya University))
 
@@ -73,8 +69,6 @@ We have no support grants for travel and accommodation fees for speakers. Sorry.
 
 ## Organaizers
 
-Masato Arai (Yamagata University)
-
 Minoru Eto (Yamagata University)
 
 Yuki Sakakihara (Yamagata University)
@@ -85,7 +79,8 @@ Yuki Sakakihara (Yamagata University)
 
 (Daisuke Yoshida (Nagoya University))
 
-(Graham White (Kavli IPMU, University of Tokyo))
+(Ryo Namba (Riken))
+
 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
 
