@@ -38,11 +38,15 @@ Expected Program Issue Day: 30th September, 2022
 
 ## Invited Speakers
 
+
+
+Minoru Eto (Yamagata University)
+
+(Masato Arai (Yamagata University))
+
 (Ivette Fuentes (University of Southampton) Online invitaion)
 
 (Elisa Ferreira (Max Planck Institute) Online invitation)
-
-(Minoru Eto (Yamagata University))
 
 (Sachiko Kuroyanagi (Nagoya University))
 
