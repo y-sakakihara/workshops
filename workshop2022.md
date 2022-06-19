@@ -9,19 +9,6 @@ One of the observable gravitational wave sources is a phase transition in the ea
 Our purpose of this workshop is to share and discuss recent progress and new ideas on frontiers in gravity and fundamental physics and
 to trigger the interplay between fundamental physicists and cosmologists.
 
-[](how to extract some clue to misteries of the universe from gravitational waves. )
-
-[](nature, property, characteristics)
-
-[](The universe has misteries to be understood: the origin of dark matter, baryon anti-baryon asymmetry, the smallness of the neutrino masses, etc. )
-
-[](One of the frontiers is high frequency gravitational waves since a phase transition occured earlier in the universe gives higher frequency gravitaitonal wave signals. )
-
-[](We invite experts in different gravitational wave frequency bands to remind the importance and the usefulness of the wide range gravitational wave observation to understand misteries of the universe. )
-
-
-[](To accomplish this purpose, we really welcome young physicists in related fields to join.)
-
 This workshop is basically on-site. We use zoom for invited talks if needed.
 
 ### Keywords
