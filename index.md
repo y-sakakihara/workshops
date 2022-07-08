@@ -22,11 +22,7 @@ This workshop is on-site.
 
 From xxth October, 2022 to xxth October, 2022
 
-## For Speakers
-
-Long talks: 45min
-
-Short talks: 20min (15min + 5min)
+## Registration
 
 [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLScQ7cZczh49vsoBibnotlcjHMDr4zpHkij-wIlkZcfzcFgOag/viewform?usp=sf_link)
 
@@ -37,10 +33,6 @@ Registration Deadline: 10th September, 2022
 Expected Program Issue Day: 30th September, 2022
 
 ## Invited Speakers
-
-Minoru Eto (Yamagata University)
-
-(Masato Arai (Yamagata University))
 
 (Graham White (Kavli IPMU, University of Tokyo))
 
