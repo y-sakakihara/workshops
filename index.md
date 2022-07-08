@@ -17,6 +17,7 @@ This workshop is on-site.
 - Topological defects
 - Dark matter
 - Axions
+- Condenced matter physics
 
 ## Schedule
 
