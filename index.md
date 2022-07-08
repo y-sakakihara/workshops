@@ -2,7 +2,7 @@
 
 ## Purpose
 
-In 2014, LIGO confirmed the existance of gravitational waves. Since then, gravitational waves became a useful tool to explore the early universe and even fundamental physics. A variety of the ways to detect gravitational waves are on-going and proposed, covering vast range of the gravitational wave frequency bands.
+In 2014, LIGO confirmed the existence of gravitational waves. Since then, gravitational waves became a useful tool to explore the early universe and even fundamental physics. A variety of the ways to detect gravitational waves are on-going and proposed, covering vast range of the gravitational wave frequency bands.
 
 One of the observable gravitational wave sources is a phase transition in the early universe, leading to bubbles and/or topological defects. Axion, one of the dark matter candidates, also predicts hybrid type topological defects. Therefore, now will be a high time to understand the basic properties of topological defects originating in the fundamental physics. Topological defects are also important in low energy physics such as superconducters. 
 
