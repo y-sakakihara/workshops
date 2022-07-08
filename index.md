@@ -24,9 +24,9 @@ From xxth October, 2022 to xxth October, 2022
 
 ## For Speakers
 
-Invited talks: 45min
+Long talks: 45min
 
-Oral talks: 20min (15min + 5min)
+Short talks: 20min (15min + 5min)
 
 [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLScQ7cZczh49vsoBibnotlcjHMDr4zpHkij-wIlkZcfzcFgOag/viewform?usp=sf_link)
 
