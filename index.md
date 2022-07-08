@@ -44,9 +44,9 @@ Minoru Eto (Yamagata University)
 
 (Graham White (Kavli IPMU, University of Tokyo))
 
-(Sachiko Kuroyanagi (Nagoya University))
-
 (Toshifumi Noumi (Kobe University))
+
+(Takashi Hiramatsu (Rikkyo University))
 
 ## [Program](program)
 
@@ -68,6 +68,8 @@ There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyu
 We have no support grants for travel and accommodation fees for speakers. Sorry.
 
 ## Organaizers
+
+Masato Arai (Yamagata University)
 
 Minoru Eto (Yamagata University)
 
