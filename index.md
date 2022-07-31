@@ -43,6 +43,8 @@ Asuka Ito (Tokyo Institute of Technology)
 
 Ryuichiro Kitano (KEK)
 
+Ryo Namba (RIKEN)
+
 Muneto Nitta (Keio University)
 
 Toshifumi Noumi (Kobe University)
