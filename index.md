@@ -17,11 +17,11 @@ This workshop is on-site.
 - Topological defects
 - Dark matter
 - Axions
-- Condensed matter physics
+
 
 ## Schedule
 
-From xxth October, 2022 to xxth October, 2022
+From 26th November, 2022 to 27th November, 2022
 
 ## Registration
 
@@ -31,17 +31,30 @@ From xxth October, 2022 to xxth October, 2022
 
 Registration Deadline: 10th September, 2022
 
-Expected Program Issue Day: 30th September, 2022
+Expected Program Issue Day: 30th October, 2022
 
 ## Invited Speakers
 
-(Graham White (Kavli IPMU, University of Tokyo))
+Yu(ta?) Hamada (KEK)
 
-(Toshifumi Noumi (Kobe University))
+Masahiro Ibe (ICRR, University of Tokyo)
 
-(Takashi Hiramatsu (Rikkyo University))
+Asuka Ito (Tokyo Institute of Technology)
 
-(Elisa Ferreira(Kavli IPMU, University of Tokyo))
+Ryuichiro Kitano (KEK)
+
+Muneto Nitta (Keio University)
+
+Toshifumi Noumi (Kobe University)
+
+Ken'ichi Saikawa (Kanazawa University)
+
+Jiro Soda (Kobe University)
+
+Fuminobu Takahashi (Tohoku University)
+
+Kazuya Yonekura (Tohoku University)
+
 
 ## [Program](program)
 
@@ -70,13 +83,9 @@ Minoru Eto (Yamagata University)
 
 Yuki Sakakihara (Yamagata University)
 
-(Asuka Ito (Tokyo Institute of Technology))
-
 (Kazufumi Takahashi (Kyoto University))
 
 (Daisuke Yoshida (Nagoya University))
-
-(Ryo Namba (Riken))
 
 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
