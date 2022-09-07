@@ -59,6 +59,11 @@ Fuminobu Takahashi (Tohoku University)
 
 Kazuya Yonekura (Tohoku University)
 
+## Student Speaker
+
+Takuya Takahashi (Kyoto University)
+
+Ann Nakato (Kobe University)
 
 ## [Program](program)
 
