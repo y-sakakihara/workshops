@@ -23,11 +23,7 @@ This workshop is basically on-site. We lively broadcast the workshop through Zoo
 
 From 26th November, 2022 to 27th November, 2022
 
-We have invited sessions and a student session.
-
-Invited talks: 45min
-
-Student talks: 15min
+We have invited sessions and a student session. No contributed talks.
 
 ## Registration
 
