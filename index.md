@@ -59,7 +59,7 @@ Fuminobu Takahashi (Tohoku University)
 
 Kazuya Yonekura (Tohoku University)
 
-## Student Speaker
+## Student Speakers
 
 Takuya Takahashi (Kyoto University)
 
