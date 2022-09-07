@@ -9,7 +9,7 @@ One of the observable gravitational wave sources is a phase transition in the ea
 Our purpose of this workshop is to share and discuss recent progress and new ideas on frontiers in gravity and fundamental physics and
 to trigger the interplay between fundamental physicists and cosmologists.
 
-This workshop is on-site. 
+This workshop is basically on-site. We lively broadcast the workshop through Zoom for online participants.  
 
 ### Keywords
 
@@ -23,19 +23,23 @@ This workshop is on-site.
 
 From 26th November, 2022 to 27th November, 2022
 
+We have invited sessions and a student session.
+
+Invited talks: 45min
+Student talks: 15min
+
 ## Registration
 
 [**Registration**](https://docs.google.com/forms/d/e/1FAIpQLScQ7cZczh49vsoBibnotlcjHMDr4zpHkij-wIlkZcfzcFgOag/viewform?usp=sf_link)
 
 ## Important Days
 
-Registration Deadline: 10th September, 2022
-
-Expected Program Issue Day: 30th October, 2022
+Registration Deadline for on-site participants: 31th October, 2022
+Registration Deadline for online participants: 15th November, 2022
 
 ## Invited Speakers
 
-Yu(ta?) Hamada (KEK)
+Yu Hamada (KEK)
 
 Masahiro Ibe (ICRR, University of Tokyo)
 
