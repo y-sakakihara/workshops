@@ -31,9 +31,9 @@ We have invited sessions and a student session. No contributed talks.
 
 ## Important Days
 
-Registration Deadline for on-site participants: 31th October, 2022
+Registration Deadline for on-site participants: 21st October, 2022
 
-Registration Deadline for online participants: 15th November, 2022
+Registration Deadline for online participants: 18th November, 2022
 
 ## Invited Speakers
 
@@ -81,8 +81,6 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html).
 
 (For foreginers) If you need any help on booking a room, please [contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link).
-
-We have no support grants for travel and accommodation fees for speakers. Sorry.
 
 ## Organaizers
 
