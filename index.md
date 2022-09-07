@@ -26,6 +26,7 @@ From 26th November, 2022 to 27th November, 2022
 We have invited sessions and a student session.
 
 Invited talks: 45min
+
 Student talks: 15min
 
 ## Registration
@@ -35,6 +36,7 @@ Student talks: 15min
 ## Important Days
 
 Registration Deadline for on-site participants: 31th October, 2022
+
 Registration Deadline for online participants: 15th November, 2022
 
 ## Invited Speakers
