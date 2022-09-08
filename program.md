@@ -26,7 +26,7 @@ Break
 
 Lunch
 
-13:30-15:00  Long talk ×2  Fuminobu Takahashi, Muneto Nitta
+13:30-15:00  Long talk ×2　Fuminobu Takahashi, Muneto Nitta
 
 Break
 
