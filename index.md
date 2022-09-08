@@ -38,33 +38,33 @@ Registration Deadline for online participants: 18th November, 2022
 
 ## Invited Speakers
 
-Yu Hamada (KEK)
+- Yu Hamada (KEK)
 
-Masahiro Ibe (ICRR, University of Tokyo)
+- Masahiro Ibe (ICRR, University of Tokyo)
 
-Asuka Ito (Tokyo Institute of Technology)
+- Asuka Ito (Tokyo Institute of Technology)
 
-Ryuichiro Kitano (KEK)
+- Ryuichiro Kitano (KEK)
 
-Ryo Namba (RIKEN)
+- Ryo Namba (RIKEN)
 
-Muneto Nitta (Keio University)
+- Muneto Nitta (Keio University)
 
-Toshifumi Noumi (Kobe University)
+- Toshifumi Noumi (Kobe University)
 
-Ken'ichi Saikawa (Kanazawa University)
+- Ken'ichi Saikawa (Kanazawa University)
 
-Jiro Soda (Kobe University)
+- Jiro Soda (Kobe University)
 
-Fuminobu Takahashi (Tohoku University)
+- Fuminobu Takahashi (Tohoku University)
 
-Kazuya Yonekura (Tohoku University)
+- Kazuya Yonekura (Tohoku University)
 
 ## Student Speakers
 
-Takuya Takahashi (Kyoto University)
+- Takuya Takahashi (Kyoto University)
 
-Ann Nakato (Kobe University)
+- Ann Nakato (Kobe University)
 
 ## [Program](program)
 
@@ -85,15 +85,15 @@ There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyu
 
 ## Organaizers
 
-Masato Arai (Yamagata University)
+- Masato Arai (Yamagata University)
 
-Minoru Eto (Yamagata University)
+- Minoru Eto (Yamagata University)
 
-Yuki Sakakihara (Yamagata University)
+- Yuki Sakakihara (Yamagata University)
 
-Kazufumi Takahashi (Kyoto University)
+- Kazufumi Takahashi (Kyoto University)
 
-Daisuke Yoshida (Nagoya University)
+- Daisuke Yoshida (Nagoya University)
 
 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
@@ -104,11 +104,14 @@ Daisuke Yoshida (Nagoya University)
 This workshop is partly supported by 
 
 - Grant-in-Aid for Scientific Research (C)
-21K03565 for Masato Arai (PI)
-19K03839 for Minoru Eto (PI)
+    - 21K03565 for Masato Arai (PI)
+    - 19K03839 for Minoru Eto (PI)
 
 - Grant-in-Aid for Scientific Research (B) 
-22H01221 for Minoru Eto (co-PI)
+    - 22H01221 for Minoru Eto (co-PI)
+
+- Grant-in-Aid for Research Activity Start-up
+    - for Yuki Sakakihara (PI)
 
 The venue and facilities are provided by Faculty of Engineearing, Yamagata University
 
