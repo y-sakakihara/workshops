@@ -116,8 +116,7 @@ This workshop is partly supported by
 The venue and facilities are provided by Faculty of Engineearing, Yamagata University
 
 
-![Logo_KAKEN](KAKENHIlogo_L.jpg)
-![Logo YU](YU-logomark01.png)
+<img src="KAKENHIlogo_L.jpg" width="200"> <img src="YU-logomark01.png" width="400">
 
 
 
