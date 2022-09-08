@@ -99,7 +99,16 @@ Daisuke Yoshida (Nagoya University)
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
 
 
-## Support
+## Sponsors
+
+This workshop is partly supported by 
+
+- Grant-in-Aid for Scientific Research (C)
+21K03565 for Masato Arai (PI)
+19K03839 for Minoru Eto (PI)
+
+- Grant-in-Aid for Scientific Research (B) 
+22H01221 for Minoru Eto (co-PI)
 
 The venue and facilities are provided by Faculty of Engineearing, Yamagata University
 
