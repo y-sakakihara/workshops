@@ -1,20 +1,28 @@
 ---
 
+Times are in JST.
+
 ## First Day
 
-10:00-11:30 Long talk ×2　Asuka Ito, Kazuya Yonekura
+| Time | Speaker | Title of the talk |
+|----|----|----|
+| 10:00-10:45 |    Asuka Ito ||
+| 10:45-11:30 |  Kazuya Yonekura ||
 
-Lunch
+11:30-13:00    Lunch
 
-13:00-14:30 Long talk ×2　Yu Hamada, Ryuichiro Kitano
 
-Break
+|----|----|----|
+| 13:00-13:45  | Yu Hamada ||
+| 13:45-14:30  | Ryuichiro Kitano||
+
+14:30-14:45  Break
 
 14:45-15:15 Long talk ×1　Jiro Soda
 
 Break
 
-15:30-16:30 Challenge talk ×3 (D or M or B) or (short 2 + long 1)　Takuya Takahashi, Ann Nakato
+15:30-16:30　Takuya Takahashi, Yuito Suzuki, Ann Nakato
 
 ## Second Day
 
