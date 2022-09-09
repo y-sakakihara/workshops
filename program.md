@@ -5,7 +5,7 @@
 - Each student talk is for 20min. 
 - Both of them include time for questions and comments.
 
-## First Day
+## First Day (Saturday, 26th November 2022)
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
@@ -30,7 +30,7 @@
 | 15:50-16:10 | Yuito Suzuki ||
 | 16:10-16:30 | Ann Nakato ||
 
-## Second Day
+## Second Day　(Sunday, 27th November 2022)
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
