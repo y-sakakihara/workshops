@@ -10,7 +10,7 @@ Our purpose of this workshop is to share and discuss recent progress and new ide
 to trigger the interplay between fundamental physicists and cosmologists.
 
 This workshop is basically on-site. We lively broadcast the workshop through Zoom for online participants.  
-This year, the talks are given mainly in Japanese expect for some talks.
+This year, the talks are given in Japanese.
 
 ### Keywords
 
