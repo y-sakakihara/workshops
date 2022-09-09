@@ -83,8 +83,6 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 
 There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html).
 
-(For foreginers) If you need any help on booking a room, please [contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link).
-
 ## Organaizers
 
 - Masato Arai (Yamagata University)
