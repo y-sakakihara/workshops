@@ -1,6 +1,9 @@
 ---
 
-Times are in JST.
+- Times are in JST. 
+- Each invited talk is for 45min. 
+- Each student talk is for 20min. 
+- Both of them include time for questions and comments.
 
 ## First Day
 
