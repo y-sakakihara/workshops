@@ -64,6 +64,8 @@ Registration Deadline for online participants: 18th November, 2022
 
 - Takuya Takahashi (Kyoto University)
 
+- Yuito Suzuki (Yamagata University)
+
 - Ann Nakato (Kobe University)
 
 ## [Program](program)
@@ -111,7 +113,7 @@ This workshop is partly supported by
     - 22H01221 for Minoru Eto (co-PI)
 
 - Grant-in-Aid for Research Activity Start-up
-    - for Yuki Sakakihara (PI)
+    - 22K20365 for Yuki Sakakihara (PI)
 
 The venue and facilities are provided by Faculty of Engineearing, Yamagata University
 
