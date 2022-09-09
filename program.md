@@ -6,11 +6,10 @@ Times are in JST.
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
-| 10:00-10:45 |    Asuka Ito ||
-| 10:45-11:30 |  Kazuya Yonekura ||
+| 10:00-10:45 | Asuka Ito ||
+| 10:45-11:30 | Kazuya Yonekura ||
 
 11:30-13:00    Lunch
-
 
 |----|----|----|
 | 13:00-13:45  | Yu Hamada ||
@@ -18,27 +17,35 @@ Times are in JST.
 
 14:30-14:45  Break
 
-14:45-15:15 Long talk ×1　Jiro Soda
+|----|----|----|
+| 14:45-15:15 | Jiro Soda ||
 
-Break
+15:15-15:30 Break
 
-15:30-16:30　Takuya Takahashi, Yuito Suzuki, Ann Nakato
+|----|----|----|
+| 15:30-15:50 | Takuya Takahashi ||
+| 15:50-16:10 | Yuito Suzuki ||
+| 16:10-16:30 | Ann Nakato ||
 
 ## Second Day
 
-9:30-11:00  Long talk × 2　Ryo Namba, Toshifumi Noumi
+| Time | Speaker | Title of the talk |
+|----|----|----|
+| 9:30-10:15 | Ryo Namba ||
+| 10:15-11:30| Toshifumi Noumi ||
 
-Break
+11:30-11:45 Break
 
-11:15-12:00  Long talk ×1　Masahiro Ibe
+| 11:15-12:00 | Masahiro Ibe ||
 
-Lunch
+12:00-13:30 Lunch
 
-13:30-15:00  Long talk ×2　Fuminobu Takahashi, Muneto Nitta
+| 13:30-14:15 | Fuminobu Takahashi ||
+| 14:15-15:00 | Muneto Nitta ||
 
-Break
+15:00-15:15 Break
 
-15:15-16:00  Long talk ×1　Ken’ichi Saikawa
+| 15:15-16:00 | Ken’ichi Saikawa ||
 
 
 
