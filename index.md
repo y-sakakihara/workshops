@@ -81,7 +81,7 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 
 ## Information
 
-There is a hotel near the campus: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html).
+Hotels: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by a taxi from the campus)
 
 ## Organaizers
 
