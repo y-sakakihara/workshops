@@ -65,6 +65,7 @@ Invited session 6 (Chair: Minoru Eto)
 15:00-15:15 Break
 
 Invited session 7 (Chair: Yuki Sakakihara)
+
 | 15:15-16:00 | Ken’ichi Saikawa ||
 
 16:00-16:05 Concluding remark (Minoru Eto)
