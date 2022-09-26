@@ -32,7 +32,7 @@ We have invited sessions and a student session. No contributed talks.
 
 ## Important Days
 
-Registration Deadline for on-site participants: 21st October, 2022
+Registration Deadline for on-site participants: 28th October, 2022
 
 Registration Deadline for online participants: 18th November, 2022
 
