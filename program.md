@@ -7,7 +7,7 @@
 
 ## First Day (Saturday, 26th November 2022)
 
-9:55-10:00  Opening remark (Masato Arai)
+
 
 Invited session 1  (Chair: Masato Arai)
 
@@ -68,7 +68,7 @@ Invited session 7 (Chair: Yuki Sakakihara)
 
 | 15:15-16:00 | Ken’ichi Saikawa ||
 
-16:00-16:05 Concluding remark (Minoru Eto)
+
 
 
 
