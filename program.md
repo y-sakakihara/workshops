@@ -29,16 +29,16 @@ Invited session 2 (Chair: Minoru Eto)
 Invited session 3 (Chair: Kazufumi Takahashi)
 
 |----|----|----|
-| 14:45-15:15 | Jiro Soda ||
+| 14:45-15:30 | Jiro Soda ||
 
-15:15-15:30 Break
+15:30-15:45 Break
 
 Student session (Chair: Yuki Sakakihara)
 
 |----|----|----|
-| 15:30-15:50 | Takuya Takahashi ||
-| 15:50-16:10 | Yuito Suzuki ||
-| 16:10-16:30 | Ann Nakato ||
+| 15:45-15:05 | Takuya Takahashi ||
+| 15:05-16:25 | Yuito Suzuki ||
+| 16:25-16:45 | Ann Nakato ||
 
 ## Second Day　(Sunday, 27th November 2022)
 
