@@ -1,5 +1,7 @@
 ---
 
+[**Home**](index)
+
 - Times are in JST. 
 - Each invited talk is for 45min. 
 - Each student talk is for 20min. 
