@@ -12,7 +12,7 @@
 - Daichi Ide (Tokyo Institute of Technology)
 - Aiichi Iwazaki (Nishogakusha University)
 - Shoichi Kawamoto (J. F. Oberlin University)
-- Kentaro Hara (元・東京理科大学客員研究員)
+- Kentaro Hara (Former visiting researcher in Tokyo University of Science)
 - Kei-Ichi Kondo (Chiba University)
 - Naoki Yamamoto (Keio University)
 - Haruki Takahashi (SOKENDAI/KEK)
