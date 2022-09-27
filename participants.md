@@ -4,6 +4,8 @@
 
 ## On-site participants
 
+- Fumio Uchida (RESCEU, U-Tokyo)
+
 ## Online participants
 
 - Takahiro Sawada (Osaka Metropolitan University)
@@ -28,3 +30,4 @@
 - Kanji Mori (Fukuoka University)
 - Kimihiro Nomura (Kobe University)
 - Masahiro Morikawa (Ochanomizu Univ.)
+- Taishi Katsuragawa (Central China Normal University)
