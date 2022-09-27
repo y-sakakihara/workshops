@@ -47,9 +47,9 @@ Invited session 4 (Chair: Kazufumi Takahashi)
 | Time | Speaker | Title of the talk |
 |----|----|----|
 | 9:30-10:15 | Ryo Namba ||
-| 10:15-11:30| Toshifumi Noumi ||
+| 10:15-11:00| Toshifumi Noumi ||
 
-11:30-11:45 Break
+11:00-11:15 Break
 
 Invited session 5 (Chair: Masato Arai)
 
