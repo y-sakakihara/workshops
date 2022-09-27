@@ -26,3 +26,5 @@
 - Dan Kondo (University of Tokyo)
 - Naoyuki Haba (Osaka Metropolitan Univ.)
 - Kanji Mori (Fukuoka University)
+- Kimihiro Nomura (Kobe University)
+- Masahiro Morikawa (Ochanomizu Univ.)
