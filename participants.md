@@ -23,6 +23,6 @@
 - Shoichi Ichinose (Shizuoka University)
 - Tadahito Nakajima (Nihon University)
 - Satsuki Nishimura (Kyushu University)
-- Dan Kondo (university of Tokyo)
-- naoyuki haba (osaka metropolitan univ.)
+- Dan Kondo (University of Tokyo)
+- Naoyuki Haba (Osaka Metropolitan Univ.)
 - Kanji Mori (Fukuoka University)
