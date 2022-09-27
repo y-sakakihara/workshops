@@ -91,7 +91,7 @@ Hotels: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/in
 
 - Yuki Sakakihara (Yamagata University)
 
-- Kazufumi Takahashi (Kyoto University)
+- Kazufumi Takahashi (Yukawa Institute for Theoretical Physics, Kyoto University)
 
 
 [Contact us](https://docs.google.com/forms/d/e/1FAIpQLSe-WvHLB6pjCyKTq3vbE7N5C_1kKwo4OvinEA9pueLrgdbBWg/viewform?usp=sf_link)
