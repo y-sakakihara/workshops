@@ -83,7 +83,7 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 
 Hotels: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by a taxi from the campus)
 
-## Organaizers
+## Organizers
 
 - Masato Arai (Yamagata University)
 
