@@ -4,7 +4,13 @@
 
 ## On-site participants
 
-- Fumio Uchida (RESCEU, U-Tokyo)
+| Name |  Affiliation | 26th November | 27th November |
+| ---- | ---- | ---- | ---- |
+| Masato Arai | Yamagata University | [x] | [x] |
+| Minoru Eto | Yamagata University | [x] | [x] |
+| Yuki Sakakihara | Yamagata University | [x] | [x] |
+| Kazufumi Takahashi | YITP, Kyoto University | [x] | [x] |
+| Fumio Uchida | RESCEU, U-Tokyo | [x] | [x] |
 
 ## Online participants
 
