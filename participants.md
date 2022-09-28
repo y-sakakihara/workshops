@@ -6,11 +6,11 @@
 
 | Name |  Affiliation | 26th November | 27th November |
 | ---- | ---- | :----: | :----: |
-| Masato Arai | Yamagata University | :heavy_check_mark: | :heavy_check_mark: |
-| Minoru Eto | Yamagata University | :heavy_check_mark: | :heavy_check_mark: |
-| Yuki Sakakihara | Yamagata University | :heavy_check_mark: | :heavy_check_mark: |
-| Kazufumi Takahashi | YITP, Kyoto University | :heavy_check_mark: | :heavy_check_mark: |
-| Fumio Uchida | RESCEU, U-Tokyo | :heavy_check_mark: | :heavy_check_mark: |
+| Masato Arai | Yamagata University | ✔️ | ✔️ |
+| Minoru Eto | Yamagata University | ✔️ | ✔️ |
+| Yuki Sakakihara | Yamagata University | ✔️ | ✔️ |
+| Kazufumi Takahashi | YITP, Kyoto University | ✔️ | ✔️ |
+| Fumio Uchida | RESCEU, U-Tokyo | ✔️ | ✔️ |
 
 ## Online participants
 
