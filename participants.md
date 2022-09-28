@@ -5,12 +5,12 @@
 ## On-site participants
 
 | Name |  Affiliation | 26th November | 27th November |
-| ---- | ---- | ---- | ---- |
-| Masato Arai | Yamagata University | [x] | [x] |
-| Minoru Eto | Yamagata University | [x] | [x] |
-| Yuki Sakakihara | Yamagata University | [x] | [x] |
-| Kazufumi Takahashi | YITP, Kyoto University | [x] | [x] |
-| Fumio Uchida | RESCEU, U-Tokyo | [x] | [x] |
+| ---- | ---- | :----: | :----: |
+| Masato Arai | Yamagata University | :heavy_check_mark: | :heavy_check_mark: |
+| Minoru Eto | Yamagata University | :heavy_check_mark: | :heavy_check_mark: |
+| Yuki Sakakihara | Yamagata University | :heavy_check_mark: | :heavy_check_mark: |
+| Kazufumi Takahashi | YITP, Kyoto University | :heavy_check_mark: | :heavy_check_mark: |
+| Fumio Uchida | RESCEU, U-Tokyo | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Online participants
 
