@@ -37,5 +37,6 @@
 - Kimihiro Nomura (Kobe University)
 - Masahiro Morikawa (Ochanomizu Univ.)
 - Taishi Katsuragawa (Central China Normal University)
-- Tomonori Inoue (Kobe university)
+- Tomonori Inoue (Kobe University)
 - Masashi Hamanaka (Nagoya University)
+- Masayoshi Kiguchi (KINDAI Retired/Emeritus)
