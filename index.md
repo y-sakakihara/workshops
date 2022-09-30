@@ -79,8 +79,8 @@ Centennial Hall,
 Yamagata University](https://www.yz.yamagata-u.ac.jp/en/), 
 4-3-16, Jonan, Yonezawa, 992-8510, Yamagata
 
-- 8min from Yonezawa Station by a taxi
-   - Yonezawa Station (130min away from Tokyo Station, 70min away from Sendai Station by Shinkansen)
+- 8min from Yonezawa Station by taxi
+   - Yonezawa Station (130min from Tokyo Station, 70min from Sendai Station by Shinkansen)
 
 - 12min from Unesugi Jinja Mae Bus Stop on foot. 
     - Unesugi Jinja Mae Bus Stop (2 hours from Sendai Station by highway bus)
