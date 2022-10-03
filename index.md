@@ -82,8 +82,8 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 - 8min from Yonezawa Station by taxi
    - Yonezawa Station (130min from Tokyo Station, 70min from Sendai Station by Shinkansen)
 
-- 12min from Unesugi Jinja Mae Bus Stop on foot. 
-    - Unesugi Jinja Mae Bus Stop (2 hours from Sendai Station by highway bus)
+- 12min from Uesugi Jinja Mae Bus Stop on foot. 
+    - Uesugi Jinja Mae Bus Stop (2 hours from Sendai Station by highway bus)
 
 ## Information
 
