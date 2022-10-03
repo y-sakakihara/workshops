@@ -11,6 +11,7 @@
 | Yuki Sakakihara | Yamagata University | ✔ | ✔ |
 | Kazufumi Takahashi | YITP, Kyoto University | ✔ | ✔ |
 | Fumio Uchida | RESCEU, U-Tokyo | ✔ | ✔ |
+| Sohei Tsukahara | Kyushu University | ✔ | ✔ |
 
 ## Online participants
 
