@@ -41,3 +41,4 @@
 - Tomonori Inoue (Kobe University)
 - Masashi Hamanaka (Nagoya University)
 - Masayoshi Kiguchi (KINDAI Retired/Emeritus)
+- Kota Numajiri (Nagoya University)
