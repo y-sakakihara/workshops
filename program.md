@@ -16,7 +16,7 @@ Invited session 1  (Chair: Masato Arai)
 | Time | Speaker | Title of the talk |
 |----|----|----|
 | 10:00-10:45 | Asuka Ito ||
-| 10:45-11:30 | Kazuya Yonekura ||
+| 10:45-11:30 | Kazuya Yonekura | Cosmic strings from pure Yang-Mills theory |
 
 11:30-13:00    Lunch
 
@@ -61,7 +61,7 @@ Invited session 5 (Chair: Masato Arai)
 
 Invited session 6 (Chair: Minoru Eto)
 
-| 13:30-14:15 | Fuminobu Takahashi ||
+| 13:30-14:15 | Fuminobu Takahashi | Axion domain walls and cosmic birefringence |
 | 14:15-15:00 | Muneto Nitta ||
 
 15:00-15:15 Break
