@@ -12,6 +12,7 @@
 | Kazufumi Takahashi | YITP, Kyoto University | ✔ | ✔ |
 | Fumio Uchida | RESCEU, U-Tokyo | ✔ | ✔ |
 | Sohei Tsukahara | Kyushu University | ✔ | ✔ |
+| Fuminobu Takahashi | Tohoku University |  | ✔ |
 
 ## Online participants
 
@@ -44,3 +45,4 @@
 - Kota Numajiri (Nagoya University)
 - Keiichi Watanabe (ICRR, U-Tokyo)
 - Chen Shu (University of Glasgow)
+- Masahiro Ibe (ICRR, University of Tokyo)
