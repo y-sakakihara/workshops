@@ -13,6 +13,7 @@
 | Fumio Uchida | RESCEU, U-Tokyo | ✔ | ✔ |
 | Sohei Tsukahara | Kyushu University | ✔ | ✔ |
 | Fuminobu Takahashi | Tohoku University |  | ✔ |
+| Ann Nakato | Kobe University | ✔ | ✔ |
 
 ## Online participants
 
