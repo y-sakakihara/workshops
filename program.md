@@ -31,7 +31,7 @@ Invited session 2 (Chair: Minoru Eto)
 Invited session 3 (Chair: Kazufumi Takahashi)
 
 |----|----|----|
-| 14:45-15:30 | Jiro Soda ||
+| 14:45-15:30 | Jiro Soda | Primordial gravitational waves and their non-classicality |
 
 15:30-15:45 Break
 
