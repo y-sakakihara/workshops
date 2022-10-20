@@ -14,6 +14,7 @@
 | Sohei Tsukahara | Kyushu University | ✔ | ✔ |
 | Fuminobu Takahashi | Tohoku University |  | ✔ |
 | Ann Nakato | Kobe University | ✔ | ✔ |
+| Jiro Soda | Kobe University | ✔ | ✔ |
 
 ## Online participants
 
