@@ -89,7 +89,8 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 
 ## Information
 
-Hotels: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
+- Guest house in the campus: [Guest House YU (4MB pdf file)](guest_house_YU.pdf) (5min on foot from the venue) 
+- Hotels: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
 
 ## Organizers
 
