@@ -49,3 +49,4 @@
 - Chen Shu (University of Glasgow)
 - Masahiro Ibe (ICRR, University of Tokyo)
 - Yasuhiro Yamamoto (National Center for Theoretical Sciences)
+- Yukihiro Kanda (Nagoya University)
