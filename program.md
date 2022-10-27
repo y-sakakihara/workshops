@@ -39,7 +39,7 @@ Student session (Chair: Yuki Sakakihara)
 
 |----|----|----|
 | 15:45-15:05 | Takuya Takahashi ||
-| 15:05-16:25 | Yuito Suzuki ||
+| 15:05-16:25 | Yuito Suzuki | Non-Abelian domain wall junctions and fermion zero modes |
 | 16:25-16:45 | Ann Nakato | Anisotropic warm inflation |
 
 ## Second Day　(Sunday, 27th November 2022)
