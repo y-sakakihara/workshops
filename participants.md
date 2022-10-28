@@ -16,6 +16,7 @@
 | Ann Nakato | Kobe University | ✔ | ✔ |
 | Jiro Soda | Kobe University | ✔ | ✔ |
 | Yuito Suzuki | Yamagata University | ✔ | ✔ |
+| Ken’ichi Saikawa | Kanazawa University | ✔ | ✔ |
 
 ## Online participants
 
