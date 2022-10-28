@@ -68,7 +68,7 @@ Invited session 6 (Chair: Minoru Eto)
 
 Invited session 7 (Chair: Yuki Sakakihara)
 
-| 15:15-16:00 | Ken’ichi Saikawa ||
+| 15:15-16:00 | Ken’ichi Saikawa | Axion string simulations |
 
 
 
