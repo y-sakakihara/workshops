@@ -28,7 +28,7 @@ This year, the talks are given in Japanese.
 
 - Masahiro Ibe (ICRR, University of Tokyo)
 
-- Asuka Ito (Tokyo Institute of Technology)
+- Asuka Ito (QUP, KEK)
 
 - Ryuichiro Kitano (KEK)
 
