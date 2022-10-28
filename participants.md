@@ -18,6 +18,8 @@
 | Yuito Suzuki | Yamagata University | ✔ | ✔ |
 | Ken’ichi Saikawa | Kanazawa University | ✔ | ✔ |
 | Takuya Takahashi | Kyoto University | ✔ | ✔ |
+| Asuka Ito | QUP/KEK | ✔ | ✔ |
+
 
 ## Online participants
 
