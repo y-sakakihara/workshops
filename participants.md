@@ -19,7 +19,8 @@
 | Ken’ichi Saikawa | Kanazawa University | ✔ | ✔ |
 | Takuya Takahashi | Kyoto University | ✔ | ✔ |
 | Asuka Ito | QUP/KEK | ✔ | ✔ |
-
+| Ryo Namba | RIKEN | ✔ | ✔ |
+| Toshifumi Noumi | Kobe University | ✔ | ✔ |
 
 ## Online participants
 
