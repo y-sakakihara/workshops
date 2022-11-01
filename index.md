@@ -58,21 +58,21 @@ This year, the talks are given in Japanese.
 
 ## [Participants](participants)
 
-## Registration
+## [Registration](https://docs.google.com/forms/d/e/1FAIpQLScQ7cZczh49vsoBibnotlcjHMDr4zpHkij-wIlkZcfzcFgOag/viewform?usp=sf_link)
 
-[**Registration**](https://docs.google.com/forms/d/e/1FAIpQLScQ7cZczh49vsoBibnotlcjHMDr4zpHkij-wIlkZcfzcFgOag/viewform?usp=sf_link)
+Registration for on-site participation has been closed. We now accept only registration for online participation.
+
+## Important Dates
+
+Registration Deadline for on-site participants: 28th October, 2022
+
+Registration Deadline for online participants: 18th November, 2022
 
 ## Schedule
 
 From 26th November, 2022 to 27th November, 2022
 
 We have invited sessions and a student session. No contributed talks.
-
-## Important Days
-
-Registration Deadline for on-site participants: 28th October, 2022
-
-Registration Deadline for online participants: 18th November, 2022
 
 ## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
