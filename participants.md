@@ -22,6 +22,7 @@
 | Ryo Namba | RIKEN | ✔ | ✔ |
 | Toshifumi Noumi | Kobe University | ✔ | ✔ |
 | Ryuichiro Kitano | KEK | ✔ | ✔ |
+| Yu Hamada | KEK | ✔ | ✔ |
 
 ## Online participants
 
