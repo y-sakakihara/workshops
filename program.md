@@ -24,7 +24,7 @@ Invited session 2 (Chair: Minoru Eto)
 
 |----|----|----|
 | 13:00-13:45  | Yu Hamada ||
-| 13:45-14:30  | Ryuichiro Kitano||
+| 13:45-14:30  | Ryuichiro Kitano | Physics of pancake solitons |
 
 14:30-14:45  Break
 
