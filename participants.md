@@ -21,6 +21,7 @@
 | Asuka Ito | QUP/KEK | ✔ | ✔ |
 | Ryo Namba | RIKEN | ✔ | ✔ |
 | Toshifumi Noumi | Kobe University | ✔ | ✔ |
+| Ryuichiro Kitano | KEK | ✔ | ✔ |
 
 ## Online participants
 
