@@ -61,3 +61,4 @@
 - Yuki Watanabe (NIT, Gunma College)
 - Motokazu Abe (Kyushu University)
 - Sota Hanai (Keio University)
+- Kazuya Yonekura (Tohoku University)
