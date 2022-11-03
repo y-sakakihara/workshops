@@ -23,6 +23,7 @@
 | Toshifumi Noumi | Kobe University | ✔ | ✔ |
 | Ryuichiro Kitano | KEK | ✔ | ✔ |
 | Yu Hamada | KEK | ✔ | ✔ |
+| Muneto Nitta | Keio University | ✔ | ✔ |
 
 ## Online participants
 
