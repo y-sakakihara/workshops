@@ -6,10 +6,6 @@
 
 | Name |  Affiliation | 26th November | 27th November |
 | ---- | ---- | :----: | :----: |
-| Masato Arai | Yamagata University | ✔ | ✔ |
-| Minoru Eto | Yamagata University | ✔ | ✔ |
-| Yuki Sakakihara | Yamagata University | ✔ | ✔ |
-| Kazufumi Takahashi | YITP, Kyoto University | ✔ | ✔ |
 | Yu Hamada | KEK | ✔ | ✔ |
 | Asuka Ito | QUP/KEK | ✔ | ✔ |
 | Ryuichiro Kitano | KEK | ✔ | ✔ |
@@ -24,6 +20,10 @@
 | Ann Nakato | Kobe University | ✔ | ✔ |
 | Sohei Tsukahara | Kyushu University | ✔ | ✔ |
 | Fumio Uchida | RESCEU, U-Tokyo | ✔ | ✔ |
+| Masato Arai | Yamagata University | ✔ | ✔ |
+| Minoru Eto | Yamagata University | ✔ | ✔ |
+| Yuki Sakakihara | Yamagata University | ✔ | ✔ |
+| Kazufumi Takahashi | YITP, Kyoto University | ✔ | ✔ |
 
 ## Online participants
 
