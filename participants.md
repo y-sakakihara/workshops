@@ -10,23 +10,25 @@
 | Minoru Eto | Yamagata University | ✔ | ✔ |
 | Yuki Sakakihara | Yamagata University | ✔ | ✔ |
 | Kazufumi Takahashi | YITP, Kyoto University | ✔ | ✔ |
-| Fumio Uchida | RESCEU, U-Tokyo | ✔ | ✔ |
-| Sohei Tsukahara | Kyushu University | ✔ | ✔ |
-| Fuminobu Takahashi | Tohoku University |  | ✔ |
-| Ann Nakato | Kobe University | ✔ | ✔ |
-| Jiro Soda | Kobe University | ✔ | ✔ |
-| Yuito Suzuki | Yamagata University | ✔ | ✔ |
-| Ken’ichi Saikawa | Kanazawa University | ✔ | ✔ |
-| Takuya Takahashi | Kyoto University | ✔ | ✔ |
-| Asuka Ito | QUP/KEK | ✔ | ✔ |
-| Ryo Namba | RIKEN | ✔ | ✔ |
-| Toshifumi Noumi | Kobe University | ✔ | ✔ |
-| Ryuichiro Kitano | KEK | ✔ | ✔ |
 | Yu Hamada | KEK | ✔ | ✔ |
+| Asuka Ito | QUP/KEK | ✔ | ✔ |
+| Ryuichiro Kitano | KEK | ✔ | ✔ |
+| Ryo Namba | RIKEN | ✔ | ✔ |
 | Muneto Nitta | Keio University | ✔ | ✔ |
+| Toshifumi Noumi | Kobe University | ✔ | ✔ |
+| Ken'ichi Saikawa | Kanazawa University | ✔ | ✔ |
+| Jiro Soda | Kobe University | ✔ | ✔ |
+| Fuminobu Takahashi | Tohoku University |  | ✔ |
+| Takuya Takahashi | Kyoto University | ✔ | ✔ |
+| Yuito Suzuki | Yamagata University | ✔ | ✔ |
+| Ann Nakato | Kobe University | ✔ | ✔ |
+| Sohei Tsukahara | Kyushu University | ✔ | ✔ |
+| Fumio Uchida | RESCEU, U-Tokyo | ✔ | ✔ |
 
 ## Online participants
 
+- Masahiro Ibe (ICRR, University of Tokyo)
+- Kazuya Yonekura (Tohoku University)
 - Takahiro Sawada (Osaka Metropolitan University)
 - Yoshimasa Hidaka (KEK)
 - Yoichi Kazama (Research Center for Mathematical Physics Rikkyo University)
@@ -47,19 +49,18 @@
 - Dan Kondo (University of Tokyo)
 - Naoyuki Haba (Osaka Metropolitan Univ.)
 - Kanji Mori (Fukuoka University)
+- Keiichi Watanabe (ICRR, U-Tokyo)
+- Chen Shu (University of Glasgow)
+- Yasuhiro Yamamoto (National Center for Theoretical Sciences)
+- Kota Numajiri (Nagoya University)
 - Kimihiro Nomura (Kobe University)
 - Masahiro Morikawa (Ochanomizu Univ.)
 - Taishi Katsuragawa (Central China Normal University)
 - Tomonori Inoue (Kobe University)
 - Masashi Hamanaka (Nagoya University)
 - Masayoshi Kiguchi (KINDAI Retired/Emeritus)
-- Kota Numajiri (Nagoya University)
-- Keiichi Watanabe (ICRR, U-Tokyo)
-- Chen Shu (University of Glasgow)
-- Masahiro Ibe (ICRR, University of Tokyo)
-- Yasuhiro Yamamoto (National Center for Theoretical Sciences)
 - Yukihiro Kanda (Nagoya University)
 - Yuki Watanabe (NIT, Gunma College)
 - Motokazu Abe (Kyushu University)
 - Sota Hanai (Keio University)
-- Kazuya Yonekura (Tohoku University)
+- Makoto Narita (National Institute of Technology, Okinawa College)
