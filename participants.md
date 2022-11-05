@@ -64,3 +64,4 @@
 - Motokazu Abe (Kyushu University)
 - Sota Hanai (Keio University)
 - Makoto Narita (National Institute of Technology, Okinawa College)
+- Hajime Kobayashi (YITP, Kyoto University)
