@@ -48,11 +48,11 @@ This year, the talks are given in Japanese.
 
 ## Student Speakers
 
-- Takuya Takahashi (Kyoto University)
+- Ann Nakato (Kobe University)
 
 - Yuito Suzuki (Yamagata University)
 
-- Ann Nakato (Kobe University)
+- Takuya Takahashi (Kyoto University)
 
 ## [Program](program)
 
