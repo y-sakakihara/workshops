@@ -15,9 +15,9 @@
 | Ken'ichi Saikawa | Kanazawa University | ✔ | ✔ |
 | Jiro Soda | Kobe University | ✔ | ✔ |
 | Fuminobu Takahashi | Tohoku University |  | ✔ |
-| Takuya Takahashi | Kyoto University | ✔ | ✔ |
-| Yuito Suzuki | Yamagata University | ✔ | ✔ |
 | Ann Nakato | Kobe University | ✔ | ✔ |
+| Yuito Suzuki | Yamagata University | ✔ | ✔ |
+| Takuya Takahashi | Kyoto University | ✔ | ✔ |
 | Sohei Tsukahara | Kyushu University | ✔ | ✔ |
 | Fumio Uchida | RESCEU, U-Tokyo | ✔ | ✔ |
 | Masato Arai | Yamagata University | ✔ | ✔ |
