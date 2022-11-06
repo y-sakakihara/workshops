@@ -93,9 +93,9 @@ Yamagata University](https://www.yz.yamagata-u.ac.jp/en/),
 
 - Hotels: [Yonezawa Excel Hotel Tokyu](https://www.tokyuhotels.co.jp/yonezawa-e/index.html) (5min by taxi from the campus)
 
-- Local Buses: [City Bus](https://www.city.yonezawa.yamagata.jp/2792.html) 
+- Local Buses: [City Bus](https://www.city.yonezawa.yamagata.jp/2792.html) (Get off at Yamadai-mae)
 
-- Local Buses: [Yamako Bus](http://www.yamakobus.co.jp/rosenbus/jikoku/frame/shirabu.html)
+- Local Buses: [Yamako Bus](http://www.yamakobus.co.jp/rosenbus/jikoku/frame/shirabu.html) (Get off at Johnan-Nichome)
 
 ## Organizers
 
