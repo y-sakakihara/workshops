@@ -127,7 +127,7 @@ This workshop is partly supported by
 
 - Council for the Promotion of Academic City by Yonezawa City
 
-The venue and facilities are provided by Faculty of Engineearing, Yamagata University
+The venue and facilities are provided by Yamagata University
 
 
 <img src="KAKENHIlogo_L.jpg" width="240"> <img src="YU-logomark01.png" width="460">
