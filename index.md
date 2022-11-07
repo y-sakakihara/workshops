@@ -125,7 +125,7 @@ This workshop is partly supported by
 - Grant-in-Aid for Research Activity Start-up
     - 22K20365 for Yuki Sakakihara (PI)
 
-- Council for the Promotion of Academic City by Yonezawa City
+- Council for the Promotion of Academic City, Yonezawa City
 
 The venue and facilities are provided by Yamagata University
 
