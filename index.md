@@ -77,8 +77,8 @@ We have invited sessions and a student session. No contributed talks.
 ## [Venue](https://goo.gl/maps/SRyD9WjDTtY7XSceA)
 
 Centennial Hall,
-[Faculty of Engineering,
-Yamagata University](https://www.yz.yamagata-u.ac.jp/en/), 
+Faculty of Engineering,
+[Yamagata University](https://www.yamagata-u.ac.jp/en/), 
 4-3-16, Jonan, Yonezawa, 992-8510, Yamagata
 
 - 8min from Yonezawa Station by taxi
