@@ -119,18 +119,19 @@ This workshop is partly supported by
     - 21K03565 for Masato Arai (PI)
     - 19K03839 for Minoru Eto (PI)
 
-- Grant-in-Aid for Scientific Research (B) 
-    - 22H01221 for Minoru Eto (co-PI)
 
 - Grant-in-Aid for Research Activity Start-up
     - 22K20365 for Yuki Sakakihara (PI)
+
+- Grant-in-Aid for Scientific Research (B) 
+    - 22H01221 for Minoru Eto (co-PI)
 
 - Council for the Promotion of Academic City, Yonezawa City
 
 The venue and facilities are provided by Yamagata University
 
 
-<img src="KAKENHIlogo_L.jpg" width="240"> <img src="YU-logomark01.png" width="460">
+<img src="KAKENHIlogo_L.jpg" width="240"> <img src="yonezawa_emblem.png" width="100"> <img src="YU-logomark01.png" width="460">
 
 
 
