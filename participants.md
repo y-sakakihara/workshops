@@ -70,3 +70,5 @@
 - Kiyoharu Kawana (KIAS)
 - Kenya Ikeda (YITP, Kyoto University)
 - Takahiro Tanaka (Kyoto University)
+- Hidetoshi Omiya (Kyoto U)
+- Masaki Yamada (Tohoku University)
