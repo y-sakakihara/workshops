@@ -134,7 +134,7 @@ This workshop is partly supported by
 The venue and facilities are provided by Yamagata University
 
 
-<img src="KAKENHIlogo_L.jpg" width="240"> <img src="yonezawa_emblem.png" width="100"> <img src="YU-logomark01.png" width="460">
+<img src="KAKENHIlogo_L.jpg" width="240"> <img src="yonezawa_emblem.png" width="110"> <img src="YU-logomark01.png" width="460">
 
 
 
