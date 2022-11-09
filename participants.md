@@ -65,3 +65,8 @@
 - Sota Hanai (Keio University)
 - Makoto Narita (National Institute of Technology, Okinawa College)
 - Hajime Kobayashi (YITP, Kyoto University)
+- Ryo Yokokura (KEK)
+- Kentaro Nishimura (KEK)
+- Kiyoharu Kawana (KIAS)
+- Kenya Ikeda (YITP, Kyoto University)
+- Takahiro Tanaka (Kyoto University)
