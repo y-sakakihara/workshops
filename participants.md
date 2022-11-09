@@ -72,3 +72,5 @@
 - Takahiro Tanaka (Kyoto University)
 - Hidetoshi Omiya (Kyoto U)
 - Masaki Yamada (Tohoku University)
+- Masashi Kawahira (Yukawa Institute for Theoretical Physics)
+- Yutaka Ookouchi (Kyushu U.)
