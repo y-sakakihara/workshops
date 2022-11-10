@@ -74,3 +74,5 @@
 - Masaki Yamada (Tohoku University)
 - Masashi Kawahira (Yukawa Institute for Theoretical Physics)
 - Yutaka Ookouchi (Kyushu U.)
+- Yugo Abe (Miyakonojo KOSEN)
+- Yoshiki Muraoka (Kanazawa)
