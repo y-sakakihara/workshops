@@ -76,3 +76,5 @@
 - Yutaka Ookouchi (Kyushu U.)
 - Yugo Abe (Miyakonojo KOSEN)
 - Yoshiki Muraoka (Kanazawa)
+- Hiroki Matsui (YITP)
+- Junseok Lee (Tohoku University)
