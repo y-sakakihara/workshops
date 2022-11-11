@@ -62,7 +62,7 @@ Invited session 5 (Chair: Masato Arai)
 Invited session 6 (Chair: Minoru Eto)
 
 | 13:30-14:15 | Fuminobu Takahashi | Axion domain walls and cosmic birefringence |
-| 14:15-15:00 | Muneto Nitta ||
+| 14:15-15:00 | Muneto Nitta | Physics of negative energy solitons |
 
 15:00-15:15 Break
 
