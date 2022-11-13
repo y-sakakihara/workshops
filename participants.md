@@ -78,3 +78,6 @@
 - Yoshiki Muraoka (Kanazawa)
 - Hiroki Matsui (YITP)
 - Junseok Lee (Tohoku University)
+- Kaihua Guo (Chuo University)
+- Hideo Furugori (Nagoya University)
+- Hiroaki Nishiyama (Yamagata University)
