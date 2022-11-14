@@ -58,7 +58,7 @@ This year, the talks are given in Japanese.
 
 ## [Participants](participants)
 
-## [Registration](https://docs.google.com/forms/d/e/1FAIpQLScQ7cZczh49vsoBibnotlcjHMDr4zpHkij-wIlkZcfzcFgOag/viewform?usp=sf_link)
+## [Registration](https://docs.google.com/forms/d/e/1FAIpQLScQ7cZczh49vsoBibnotlcjHMDr4zpHkij-wIlkZcfzcFgOag/viewform?usp=sf_link) (Deadline: 18th November, 2022)
 
 Registration for on-site participation has been closed. We now accept only registration for online participation.
 
