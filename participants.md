@@ -82,3 +82,4 @@
 - Hideo Furugori (Nagoya University)
 - Hiroaki Nishiyama (Yamagata University)
 - Pasquale Marra (Tokyo University)
+- Rei Watanabe (Yamagata University)
