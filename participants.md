@@ -83,3 +83,4 @@
 - Hiroaki Nishiyama (Yamagata University)
 - Pasquale Marra (Tokyo University)
 - Rei Watanabe (Yamagata University)
+- 寛太 内野 (Yamagata University)
