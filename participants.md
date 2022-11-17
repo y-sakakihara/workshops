@@ -84,3 +84,6 @@
 - Pasquale Marra (Tokyo University)
 - Rei Watanabe (Yamagata University)
 - 寛太 内野 (Yamagata University)
+- Temma Hanyuda (Nagoya University E lab)
+- Yoshihisa Kitazawa (KEK)
+- Hidetoshi Taya (RIKEN)
