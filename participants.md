@@ -89,3 +89,7 @@
 - Hidetoshi Taya (RIKEN)
 - Shigeo Ohkubo (Osaka University)
 - Yuki Amari (University of Tokyo)
+- Tomoki Katayama (SOKENDAI)
+- Yu-ki Suzuki (Yukawa Institute for Theoretical Physics)
+- Shuichi Matsumoto (University of the Ryukyus)
+- Michiyasu Nagasawa (Kanagawa University)
