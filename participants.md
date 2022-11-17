@@ -93,3 +93,5 @@
 - Yu-ki Suzuki (Yukawa Institute for Theoretical Physics)
 - Shuichi Matsumoto (University of the Ryukyus)
 - Michiyasu Nagasawa (Kanagawa University)
+- Shinsuke Kawai (SKKU, South Korea)
+- Akio Sugamoto (Ochanomizu U.)
