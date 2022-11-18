@@ -105,3 +105,4 @@
 - Takahiro Kubota (Osaka University)
 - Yoshiki Uchida (South China Normal University)
 - Jun'ya Kume (RESCEU)
+- Sota Suzuki (Yamagata University)
