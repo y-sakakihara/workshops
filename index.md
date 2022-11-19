@@ -84,7 +84,7 @@ Faculty of Engineering,
 - 8min from Yonezawa Station by taxi
    - Yonezawa Station (130min from Tokyo Station, 70min from Sendai Station by Shinkansen)
 
-- 5min from Minami-Yonezawa Station on foot
+- 10min from Minami-Yonezawa Station on foot
    - Minami-Yonezawa Station (6min from Yonezawa Station by Yonesaka line)
 
 - 12min from Uesugi Jinja Mae Bus Stop on foot 
