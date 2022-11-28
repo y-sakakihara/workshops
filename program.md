@@ -24,7 +24,7 @@ Invited session 2 (Chair: Minoru Eto)
 
 |----|----|----|
 | 13:00-13:45  | Yu Hamada | Knot soliton in models with B-L and Peccei-Quinn symmetries |
-| 13:45-14:30  | Ryuichiro Kitano | Physics of pancake solitons |
+| 13:45-14:30  | Ryuichiro Kitano | [Physics of pancake solitons](20221126_04_kitano.pdf) |
 
 14:30-14:45  Break
 
@@ -61,7 +61,7 @@ Invited session 5 (Chair: Masato Arai)
 
 Invited session 6 (Chair: Minoru Eto)
 
-| 13:30-14:15 | Fuminobu Takahashi | Axion domain walls and cosmic birefringence |
+| 13:30-14:15 | Fuminobu Takahashi | [Axion domain walls and cosmic birefringence](20221127_04_takahashi.pdf) |
 | 14:15-15:00 | Muneto Nitta | Physics of negative energy solitons |
 
 15:00-15:15 Break
