@@ -16,7 +16,7 @@ Invited session 1  (Chair: Masato Arai)
 | Time | Speaker | Title of the talk |
 |----|----|----|
 | 10:00-10:45 | Asuka Ito | On the propagation speed of photons in axion DM |
-| 10:45-11:30 | Kazuya Yonekura | Cosmic strings from pure Yang-Mills theory |
+| 10:45-11:30 | Kazuya Yonekura | [Cosmic strings from pure Yang-Mills theory](20221126_02_yonekura.pdf) |
 
 11:30-13:00    Lunch
 
@@ -38,7 +38,7 @@ Invited session 3 (Chair: Kazufumi Takahashi)
 Student session (Chair: Yuki Sakakihara)
 
 |----|----|----|
-| 15:45-16:05 | Takuya Takahashi | Evolution of axion clouds in black hole binaries |
+| 15:45-16:05 | Takuya Takahashi | [Evolution of axion clouds in black hole binaries](20221126_06_takahashi.pdf) |
 | 16:05-16:25 | Yuito Suzuki | Non-Abelian domain wall junctions and fermion zero modes |
 | 16:25-16:45 | Ann Nakato | Anisotropic warm inflation |
 
