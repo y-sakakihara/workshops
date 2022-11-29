@@ -23,7 +23,7 @@ Invited session 1  (Chair: Masato Arai)
 Invited session 2 (Chair: Minoru Eto)
 
 |----|----|----|
-| 13:00-13:45  | Yu Hamada | Knot soliton in models with B-L and Peccei-Quinn symmetries |
+| 13:00-13:45  | Yu Hamada | [Link soliton in models with B-L and Peccei-Quinn symmetries](20221126_03_hamada.pdf) |
 | 13:45-14:30  | Ryuichiro Kitano | [Physics of pancake solitons](20221126_04_kitano.pdf) |
 
 14:30-14:45  Break
