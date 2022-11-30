@@ -59,7 +59,7 @@ This year, the talks are given in Japanese.
 ## [Participants](participants)
 
 ## Photo
-<img src="image_50438657_reduced.jpg" width="500"> 
+<img src="image_50438657_reduced.jpg" width="460"> 
 
 ## Registration closed (Deadline: 18th November, 2022)
 
