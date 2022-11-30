@@ -15,7 +15,7 @@ Invited session 1  (Chair: Masato Arai)
 
 | Time | Speaker | Title of the talk |
 |----|----|----|
-| 10:00-10:45 | Asuka Ito | On the propagation speed of photons in axion DM |
+| 10:00-10:45 | Asuka Ito | [On the propagation speed of photons in axion DM](20221126_01_ito.pdf) |
 | 10:45-11:30 | Kazuya Yonekura | [Cosmic strings from pure Yang-Mills theory](20221126_02_yonekura.pdf) |
 
 11:30-13:00    Lunch
