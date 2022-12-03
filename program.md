@@ -40,7 +40,7 @@ Student session (Chair: Yuki Sakakihara)
 |----|----|----|
 | 15:45-16:05 | Takuya Takahashi | [Evolution of axion clouds in black hole binaries](20221126_06_takahashi.pdf) |
 | 16:05-16:25 | Yuito Suzuki | Non-Abelian domain wall junctions and fermion zero modes |
-| 16:25-16:45 | Ann Nakato | Anisotropic warm inflation |
+| 16:25-16:45 | Ann Nakato | [Anisotropic warm inflation](20221126_08_nakato.pdf) |
 
 ## Second Day　(Sunday, 27th November 2022)
 
