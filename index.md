@@ -109,7 +109,7 @@ Faculty of Engineering,
 
 - Minoru Eto (Yamagata University)
 
-- Yuki Sakakihara (Yamagata University)
+- Yuki Sakakihara (Yamagata University, Chief organizer)
 
 - Kazufumi Takahashi (Yukawa Institute for Theoretical Physics, Kyoto University)
 
