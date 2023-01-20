@@ -55,7 +55,7 @@ Invited session 4 (Chair: Kazufumi Takahashi)
 
 Invited session 5 (Chair: Masato Arai)
 
-| 11:15-12:00 | Masahiro Ibe | Gauge Kinetic Mixing and Dark Topological Defects |
+| 11:15-12:00 | Masahiro Ibe | [Gauge Kinetic Mixing and Dark Topological Defects](20221127_03_ibe.pdf) |
 
 12:00-13:30 Lunch
 
